@@ -20,3 +20,5 @@ The primary goal of this repository is to offer guidance and support to individu
 While every effort has been made to ensure the accuracy and reliability of the code provided, there is no guarantee that it is error-free or suitable for all applications. Users are advised to thoroughly review and test the code in their specific environments. The repository maintainer takes no responsibility for any inaccuracies, omissions, or adverse outcomes resulting from the use of the code.
 
 By accessing and using this repository, you agree to abide by these terms and acknowledge that the repository maintainer is not liable for any consequences arising from the use or misuse of the provided code.
+
+ <img width="789" alt="Data Analysis With Python" src="https://github.com/taharizvi-ai/Data-Analysis-Using-Python/assets/161812427/62bcc187-3b51-4b8a-899c-4fd8db2834ad">
